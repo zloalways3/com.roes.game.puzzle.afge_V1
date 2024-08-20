@@ -1,0 +1,33 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/T.cs">
+    <Files>
+      <File FileName="Assets/Scripts/T.cs" Line="33" Column="6" />
+      <File FileName="Assets/Scripts/GC.cs" />
+      <File FileName="Assets/Scripts/TDMU.cs" />
+      <File FileName="Assets/Scripts/B.cs" />
+      <File FileName="Assets/Scripts/R.cs" />
+      <File FileName="Assets/Scripts/TI.cs" />
+      <File FileName="Assets/Scripts/TD.cs" />
+      <File FileName="Assets/Scripts/MO.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="com.roes.game.puzzle.afge" expanded="True">
+            <Node name="Assembly-CSharp" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>Assembly-CSharp-firstpass.csproj</String>
+    <String>Assembly-CSharp.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
